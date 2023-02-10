@@ -1,0 +1,19 @@
+{
+  "flash": {
+    "Flash": "Flash"
+  },
+  "landing": {
+    "LandingPage": "Landing Page",
+    "Login": "Login",
+    "About": "About"
+  },
+  "home": {
+    "Home": "Home"
+  },
+  "auth": {
+    "SignIn":"Sign In",
+    "SignUp":"Sign Up",
+    "ResetPassword":"Reset Password",
+    "ForgotPassword":"Forgot Password"
+  }
+}
